@@ -1,0 +1,13 @@
+.button--changeBackground {
+    background-color: orange;
+    margin-top: 20px;
+    padding: 15px;
+    border: 2px solid white;
+    font-size: 15px;
+}
+
+.orangeBackground {
+    background-color: orange;
+    min-width: 300px;
+    padding: 20px;
+}

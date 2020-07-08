@@ -1,0 +1,19 @@
+.header {
+    color: #f5f4f4;
+    background-color: hsl(39, 87%, 52%);
+    border-width: 5px;
+    border-style: solid;
+    border-color: hsl(39, 87%, 52%);
+    
+    min-width: 300px;
+    padding: 20px;
+    text-align: center;
+    text-shadow: 1px 2px 5px #414141;
+    font-size: 32px;
+}
+
+.header--smallerFont {
+    font-size: 22px;
+    border-radius: 5px;
+    padding: 10px;
+}

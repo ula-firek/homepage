@@ -1,0 +1,19 @@
+.discography {
+    padding-left: 20px;
+}
+
+.discography__list {
+    padding-left: 20px;
+}
+
+.discography__header {
+    padding-top: 20px;
+}
+
+.discography__unorderedList {
+    list-style-type: none;
+}
+
+.discography__listItem {
+    margin: 10px 0;
+}

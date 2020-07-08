@@ -1,0 +1,22 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.container {
+    width: 100%;
+    background-color: white;
+    max-width: 1000px;
+    min-width: 300px;
+    margin: 10px auto;
+    padding: 20px;
+    font-family: "Roboto", sans-serif;
+}
+
+.bold {
+    font-weight: bold;
+    font-size: 20px;
+}

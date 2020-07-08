@@ -1,0 +1,34 @@
+.menu {
+    padding-bottom: 20px;
+}
+
+.menu__list {
+    padding-left: 20px;
+}
+
+.menu__unorderedList {
+    list-style-type: none;
+    padding-top: 20px;
+}
+
+.menu__listItem {
+    margin: 10px 0;
+}
+
+.menu__link {
+    color: #2c2c2f;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+.menu__link:visited {
+    color: #2c2c2f;
+}
+
+.menu__link:hover {
+    color: #f09e33;
+}
+
+.menu__link:active {
+    color: crimson;
+}
