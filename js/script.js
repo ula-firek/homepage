@@ -14,11 +14,18 @@
             changeColorButton.innerText = "Włącz pomarańczowy kolor tła";
         }
 
-        changeColorButton.addEventListener("click", toggleBackground);
+
     }
 
-    welcome();
-    toggleBackground()
+    const init = () => {
+        const changeColorButton = document.querySelector(".js-changeBackroundButton");
+        changeColorButton.addEventListener("click", toggleBackground);
+
+        welcome();
+    }
+
+    init()
+
 };
 
 
